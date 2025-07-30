@@ -71,3 +71,4 @@ You can change the script's behavior by editing the variables at the top of the 
 * **`DELAY_BETWEEN_URLS`**: The number of seconds to wait after each successful claim before starting the next one.
     ```
     DELAY_BETWEEN_URLS = 3
+# AddplusMightBeScam
