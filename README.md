@@ -4,7 +4,7 @@ This Python script automates the process of visiting a list of AddPlus boost URL
 
 ## Features
 
-* ✅ Reads target URLs from a `url_list.csv` file.
+* ✅ Reads target URLs from a `url_list.csv` or `url_list2.csv` file.
 * ✅ Uses a persistent Chrome session to stay logged in.
 * ✅ Automatically skips URLs that have already been claimed by checking console logs.
 * ✅ Skips invalid or 'Page Not Found' URLs.
@@ -26,7 +26,7 @@ Install the required Python packages by running the following command in your te
 
 ```bash
 cd AddplusMightBeScam
-pip install selenium webdriver-manager
+pip install selenium webdriver-manager pandas
 ```
 
 
